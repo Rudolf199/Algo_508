@@ -19,7 +19,7 @@ Linux — удобная система для разработки: все ко
 #### Шаги:
 
 1. Скачайте образ **Ubuntu** (или другой дистрибутив) с [официального сайта](https://ubuntu.com/download/desktop).
-2. Запишите ISO-образ на флешку с помощью [Rufus](https://rufus.ie/) или [balenaEtcher](хhttps://etcher.balena.io)
+2. Запишите ISO-образ на флешку с помощью [Rufus](https://rufus.ie/) или [balenaEtcher](https://etcher.balena.io)
 3. Перезагрузите компьютер, зайдите в system boot menu (обычно клавишами F2, F12) и выберите загрузку с флешки.
 4. В установщике выберите **Install Ubuntu alongside Windows** (установка рядом с Windows).
 5. Выберите размер раздела (обычно 20–50 ГБ достаточно).
