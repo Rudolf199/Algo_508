@@ -27,25 +27,17 @@ Linux — удобная система для разработки: все ко
 
 ---
 
-### 2. Visual Studio (Windows, основной вариант IDE)
+### 2. Visual Studio Code
 
-Если хотите работать в Windows — ставьте **Visual Studio Community**.
-
-1. Скачайте [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/).
-2. При установке выберите **Desktop development with C++**.
-3. Создайте проект: File → New → Project → Console App (C++).
-
-> ⚡ В комплекте идёт компилятор **MSVC**, отдельно ставить ничего не нужно.
-
+1. Скачайте [Visual Studio Code](https://code.visualstudio.com/download).
+2. Поставьте экстеншны для плюсов (и другие по желанию) ![](pics/image3.png)
 ---
 
 ### 3. Альтернативы (по желанию)
 
-* **CLion** (бесплатен для студентов, мощная IDE).
-* **VS Code** (лёгкий редактор, но нужно настроить плагины для C++).
-* **Qt Creator** или **Sublime Text** (минимализм).
+* **CLion** (бесплатно можно найти (или пиратку), мощная IDE).
 
-⚠️ Подробной документации по ним в курсе не будет.
+⚠️ Документации по ним у меня не будет.
 
 ---
 
